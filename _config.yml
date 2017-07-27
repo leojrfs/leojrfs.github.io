@@ -1,14 +1,14 @@
 # Site not entirely customized using config
 # Some meta tags in _includes/head.html and other file contents need manual edits
-title: Nishanth Shanmugham
-email: nishanths@utexas.edu
+title: Leo Soares
+email: leojrfs@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Web developer, 20. Eat, sleep, rave, repeat.
+  Create, invent, make...
 baseurl: ""
-url: "https://nishanths.github.io"
-twitter_username: nshanmugham
-github_username: nishanths
-google_analytics: UA-61427501-2 # get yours at https://analytics.google.com/analytics/web/
+url: "https://leojrfs.github.io"
+twitter_username: leojrfs
+github_username: leojrfs
+google_analytics: UA-73731102-1 # get yours at https://analytics.google.com/analytics/web/
 
 html_lang: en
 permalink: /writing/:title/
@@ -22,3 +22,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
+
+# Plugins
+gems:
+  - jekyll-feed
