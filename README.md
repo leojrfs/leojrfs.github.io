@@ -1,10 +1,10 @@
-# nishanths.github.io
+# leojrfs.github.io
 
 Super awesome responsive Jekyll theme.
 
-Used for my [website](https://nishanths.github.io).
+Used for my [website](https://leojrfs.github.io).
 
-[![wercker status](https://app.wercker.com/status/fba89a110952058b1ed018f98722af1e/s/source "wercker status")](https://app.wercker.com/project/bykey/fba89a110952058b1ed018f98722af1e)
+[![wercker status](https://app.wercker.com/status/606003ca0fa3aa6c252df9b9c0a2ce70/s "wercker status")](https://app.wercker.com/project/bykey/606003ca0fa3aa6c252df9b9c0a2ce70)
 
 **Branches**
 
@@ -18,7 +18,7 @@ Used for my [website](https://nishanths.github.io).
 - Built-in 404 page
 - Google Analytics
 - [Automatic deploys](#build-and-deploy)
-- [Subtle animations](https://github.com/nishanths/nishanths.github.io/blob/source/_sass/dot.scss)
+- [Subtle animations](https://github.com/leojrfs/leojrfs.github.io/blob/source/_sass/dot.scss)
 
 
 <img src="http://cl.ly/091S0l0V1d0X/Screen%20Shot%202016-03-14%20at%2012.20.43%20AM.png" width=1000>
@@ -29,7 +29,7 @@ To view the website locally:
 
 ```
 # clone the repo into a directory named website
-$ git clone https://github.com/nishanths/nishanths.github.io.git website
+$ git clone https://github.com/leojrfs/leojrfs.github.io.git website
 $ cd website
 
 # make sure we are on the correct branch

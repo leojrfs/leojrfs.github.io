@@ -1,6 +1,6 @@
 # http://blog.wercker.com/2013/05/31/simplify-you-jekyll-publishing-process-with-wercker.html
 # our build should run within a Ruby box
-box: phusion/passenger-ruby22
+box: phusion/passenger-ruby24
 
 build:
   steps:
