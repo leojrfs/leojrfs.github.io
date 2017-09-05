@@ -26,7 +26,7 @@ I always force and encourage myself to **see from all points of view** and to k
 - Embedded Linux buildsystems ([buildroot](https://buildroot.org), [OpenWrt](https://openwrt.org), [Yocto](https://www.yoctoproject.org), [Android](https://source.android.com), etc)
 - Embedded Linux/RTOSs firmware. (Builds, Update system, infrastructure).
 - Embedded Linux/RTOSs custom vendor SDK/NDK creation.
-- Embedded Linux/RTOOs CI and CD (incl. Automated Testing).
+- Embedded Linux/RTOSs CI and CD (incl. Automated Testing).
 - IoT Product Development.
 - Product Development DevOps.
 - Embedded computer electronics development and debugging.
