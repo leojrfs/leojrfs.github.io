@@ -8,6 +8,7 @@ baseurl: ""
 url: "https://leojrfs.github.io"
 twitter_username: leojrfs
 github_username: leojrfs
+disqus: leojrfs
 google_analytics: UA-73731102-1 # get yours at https://analytics.google.com/analytics/web/
 
 html_lang: en
