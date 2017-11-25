@@ -3,6 +3,8 @@ layout: post
 title: Setting up TI SensorTag on OSX and Linux
 ---
 
+**EDIT:** *[Uniflash](http://processors.wiki.ti.com/index.php/Category:CCS_UniFlash), a Universal Flash Programmer for Texas Instruments devices is now available.*
+
 Setting up the [TI SensorTag](www.ti.com/sensortag) on OSX to work with [Contiki](http://www.contiki-os.org/) turned out to be tricky. After many hours of searching and hacking around, i found the solution:
 
 ### OSX:
