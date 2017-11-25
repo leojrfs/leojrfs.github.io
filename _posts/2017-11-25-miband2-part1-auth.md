@@ -17,7 +17,7 @@ The procedure is as follows:
 2. A random number is requested from the Band
 3. The number is then encrypted with the shared **16 Byte** key using **`AES/ECB/NoPadding`** and sent to the Band.
 
-I guess the band encrypts the random number internally and then compares to the received one.
+I guess the band internally encrypts the random number with the previously received key and then compares to the received encrypted number.
 
 This authentication procedure takes place on a custom **GATT** service, `UUID 0x0009`.
 
