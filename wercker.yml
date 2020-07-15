@@ -19,9 +19,8 @@ deploy:
     steps:
         - install-packages:
             packages: git ssh-client
-        - git-push:
+        - michidk/git-push:
             gh_oauth: $GIT_TOKEN
-            gh_pages: true
             basedir: _site
             branch: master
             discard_history: true
